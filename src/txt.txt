@@ -1,0 +1,21 @@
+LABORATORIO 1
+Se necesita implementar una carrera de caballos dentro de un hipódromo.
+
+Para esto se deberán construir las siguientes clases.
+
+
+Construir la clase Caballo con la siguiente especificación:
+
+debe ser un thread
+cada caballo tiene un nombre
+sabe avanzar hacia la meta y se detiene cuando la alcanza
+tiene una meta asignada
+Construir la clase Hipódromo con la siguiente especificación:
+
+dispone de ‘n’ caballos
+define una meta y se la asigna a los caballos
+pone a correr los caballos
+Construir la clase Meta con la siguiente especificación:
+
+tiene los metros a recorrer
+conoce cuando los caballos alcanzaron la meta
